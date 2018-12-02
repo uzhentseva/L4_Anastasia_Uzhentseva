@@ -20,7 +20,6 @@ enum carrierLoad: String {
     case load = "загружается", unload = "разгружается"
 }
 
-
 //КЛАССЫ
 // создаём класс спорт
 class Car {
